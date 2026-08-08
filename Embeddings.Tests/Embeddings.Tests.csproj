@@ -26,6 +26,7 @@
 
     <ItemGroup>
         <ProjectReference Include="..\Embeddings.Abstractions\Embeddings.Abstractions.csproj" />
+        <ProjectReference Include="..\Embeddings.Bedrock\Embeddings.Bedrock.csproj" />
         <ProjectReference Include="..\Embeddings.Memory\Embeddings.Memory.csproj" />
     </ItemGroup>
 
